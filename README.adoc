@@ -1,0 +1,12 @@
+= Demo Documentation Component A
+// :idprefix:
+// :idseparator: -
+// URIs:
+:uri-project: https://antora.org
+:uri-org: https://gitlab.com/antora
+:uri-group: {uri-org}/demo
+:uri-repo: {uri-group}/demo-site
+:uri-opendevise: https://opendevise.com
+
+This is an example of a documentation component.
+It is used by the demo site.
