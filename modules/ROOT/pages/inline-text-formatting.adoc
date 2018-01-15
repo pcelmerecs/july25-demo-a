@@ -1,4 +1,4 @@
-= Inline Text Formatting
+= Basic Inline Text Formatting
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
