@@ -23,7 +23,6 @@ endif::[]
 * Item B
 * Item C
 
-
 == Nested Unordered List
 
 .Unordered list with nested levels
@@ -90,6 +89,8 @@ The list marker (bullet) can be set using the list’s block style.
 * unstyled (no indentation or bullet)
 ----
 
+.Result
+--
 [square]
 * square
 
@@ -104,3 +105,4 @@ The list marker (bullet) can be set using the list’s block style.
 
 [unstyled]
 * unstyled (no indentation or bullet)
+--

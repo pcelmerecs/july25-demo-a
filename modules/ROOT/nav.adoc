@@ -1,1 +1,4 @@
 * xref:inline-text-formatting.adoc[Basic Inline Text Formatting]
+* Lists
+** xref:lists/ordered-list.adoc[Ordered List]
+** xref:lists/unordered-list.adoc[Unordered List]
