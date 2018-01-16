@@ -2,4 +2,5 @@
 * Lists
 ** xref:lists/ordered-list.adoc[Ordered List]
 ** xref:lists/unordered-list.adoc[Unordered List]
+* xref:admonition.adoc[Admonition]
 * xref:sidebar.adoc[Sidebar]
