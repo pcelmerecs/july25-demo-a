@@ -1,4 +1,5 @@
 * xref:inline-text-formatting.adoc[Basic Inline Text Formatting]
+* xref:special-characters.adoc[Special Characters & Symbols]
 * xref:ui-macros.adoc[UI Macros]
 * Lists
 ** xref:lists/ordered-list.adoc[Ordered List]
