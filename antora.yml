@@ -1,5 +1,6 @@
 name: demo-component-a
 title: Docs Component A
 version: master
+start_page: ROOT:inline-text-formatting.adoc
 nav:
 - modules/ROOT/nav.adoc
