@@ -5,6 +5,7 @@ endif::[]
 // Settings
 :idprefix:
 :idseparator: -
+:example-caption!:
 
 You can add the following inline styles to your content:
 
@@ -28,13 +29,13 @@ _italic phrase_ & __char__acter__s__
 ----
 
 .Result
---
+====
 *bold phrase* & **char**acter**s**
 
 _italic phrase_ & __char__acter__s__
 
 *_bold italic phrase_* & **__char__**acter**__s__**
---
+====
 
 == Monospace
 
@@ -54,7 +55,7 @@ You can monospace entire phrases, a word, and characters in a word.
 ----
 
 .Result
---
+====
 `monospace phrase` & ``char``acter``s``
 
 `*monospace bold phrase*` & ``**char**``acter``**s**``
@@ -63,7 +64,7 @@ You can monospace entire phrases, a word, and characters in a word.
 
 `*_monospace bold italic phrase_*` &
 ``**__char__**``acter``**__s__**``
---
+====
 
 == Highlight
 
@@ -76,6 +77,6 @@ Let's #highlight this phrase# and part of th##is##.
 ----
 
 .Result
---
+====
 Let's #highlight this phrase# and part of th##is##.
---
+====

@@ -35,14 +35,11 @@ endif::[]
 * Item C
 ----
 
-.Result
---
 * Item A
 * Item B
 ** Item B1
 ** Item B2
 * Item C
---
 
 .Maximum nested level
 [source,asciidoc]
@@ -55,20 +52,17 @@ endif::[]
 * level 1
 ----
 
-.Result
---
 * level 1
 ** level 2
 *** level 3
 **** level 4
 ***** level 5
 * level 1
---
 
+////
 == Bullet Style
 
 The list marker (bullet) can be set using the list’s block style.
-
 
 .Set list marker styles
 [source,asciidoc]
@@ -106,3 +100,4 @@ The list marker (bullet) can be set using the list’s block style.
 [unstyled]
 * unstyled (no indentation or bullet)
 --
+////
