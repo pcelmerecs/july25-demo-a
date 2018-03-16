@@ -6,6 +6,7 @@ endif::[]
 :idprefix:
 :idseparator: -
 :experimental:
+:example-caption!:
 
 Asciidoctor has three user interface (UI) macros:
 
@@ -28,11 +29,11 @@ Select a file in the file navigator and click btn:[Open].
 ----
 
 .Result
---
+====
 Press the btn:[Submit] button when you are finished the survey.
 
 Select a file in the file navigator and click btn:[Open].
---
+====
 
 == Keyboard
 
@@ -49,13 +50,13 @@ kbd:[Ctrl+Shift+N] will open a new incognito window.
 ----
 
 .Result
---
+====
 Press kbd:[esc] to exit insert mode.
 
 Use the shortcut kbd:[Ctrl+T] to open a new tab in your browser.
 
 kbd:[Ctrl+Shift+N] will open a new incognito window.
---
+====
 
 == Menu
 
@@ -70,8 +71,8 @@ Select menu:View[Zoom > Reset] to reset the zoom level to the default setting.
 ----
 
 .Result
---
+====
 To save the file, select menu:File[Save].
 
 Select menu:View[Zoom > Reset] to reset the zoom level to the default setting.
---
+====
