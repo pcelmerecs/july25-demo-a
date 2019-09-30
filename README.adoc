@@ -3,7 +3,7 @@
 :url-docs: https://docs.antora.org
 :url-org: https://gitlab.com/antora
 :url-group: {url-org}/demo
-:url-site-readme: {url-group}/demo-site/blob/master/README.adoc
+:url-site-readme: {url-group}/docs-site/blob/master/README.adoc
 :url-opendevise: https://opendevise.com
 
 Component A is an example of a documentation component.
