@@ -3,11 +3,12 @@
 :url-docs: https://docs.antora.org
 :url-org: https://gitlab.com/antora
 :url-group: {url-org}/demo
+:url-demo-site: https://antora.gitlab.io/demo/docs-site
 :url-site-readme: {url-group}/docs-site/blob/master/README.adoc
 :url-opendevise: https://opendevise.com
 
 Component A is an example of a documentation component.
-It is used by the Antora Demo site.
+It is used by the {url-demo-site}[Antora Demo site].
 The playbook and instructions for the Demo site are located in the {url-site-readme}[Demo site playbook project].
 
 == Resources
@@ -18,7 +19,7 @@ The playbook and instructions for the Demo site are located in the {url-site-rea
 
 == Copyright and License
 
-Copyright (C) 2017-2019 OpenDevise Inc. and individual Antora Project contributors.
+Copyright (C) 2017-present by OpenDevise Inc. and the individual contributors to Antora.
 
 Use of this software is granted under the terms of the https://www.mozilla.org/en-US/MPL/2.0/[Mozilla Public License Version 2.0] (MPL-2.0).
 See link:LICENSE[] to find the full license text.
