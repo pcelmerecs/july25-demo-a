@@ -1,34 +1,29 @@
 = Unordered Lists
-// Settings
-:idprefix:
-:idseparator: -
-:table-caption!:
 
-== Basic Unordered List
+== Unordered list
 
-.Basic Unordered List
-[source,asciidoc]
+.Unordered list with title
 ----
-.Optional Title of List
+.Optional title of list
 * Item A
 * Item B
 * Item C
 ----
 
-.Optional Title of List
+.Optional title of list
 * Item A
 * Item B
 * Item C
 
-== Nested Unordered List
+== Nested unordered list
 
 .Unordered list with nested levels
-[source,asciidoc]
 ----
 * Item A
 * Item B
 ** Item B1
 ** Item B2
+*** Sub-item of B2
 * Item C
 ----
 
@@ -36,22 +31,5 @@
 * Item B
 ** Item B1
 ** Item B2
+*** Sub-item of B2
 * Item C
-
-.Maximum nested level
-[source,asciidoc]
-----
-* level 1
-** level 2
-*** level 3
-**** level 4
-***** level 5
-* level 1
-----
-
-* level 1
-** level 2
-*** level 3
-**** level 4
-***** level 5
-* level 1

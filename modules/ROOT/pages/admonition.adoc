@@ -1,7 +1,4 @@
 = Admonition
-// Settings
-:idprefix:
-:idseparator: -
 
 == Admonition styles
 
@@ -18,7 +15,6 @@ Asciidoctor comes with five built-in styles.
 == Basic admonition
 
 .Basic admonitions
-[source,asciidoc]
 ----
 CAUTION: Don't stick forks in electric sockets.
 
@@ -44,10 +40,9 @@ NOTE: If you go into the basement, see if you can find Kenny's orange parka.
 == Complex admonition
 
 .Example block masquerading as an admonition
-[source,asciidoc]
 ----
 [IMPORTANT]
-.Optional Title
+.Optional title
 ====
 Use an example block to create an admonition that contains complex content, such as (but not limited to):
 
@@ -59,7 +54,7 @@ Use an example block to create an admonition that contains complex content, such
 ----
 
 [IMPORTANT]
-.Optional Title
+.Optional title
 ====
 Use an example block to create an admonition that contains complex content, such as (but not limited to):
 

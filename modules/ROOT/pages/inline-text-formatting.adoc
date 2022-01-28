@@ -1,7 +1,4 @@
-= Basic Inline Text Formatting
-// Settings
-:idprefix:
-:idseparator: -
+= Inline Text Formatting
 :example-caption!:
 
 You can add the following inline styles to your content:
@@ -11,12 +8,11 @@ You can add the following inline styles to your content:
 * Monospace
 * Highlight
 
-== Bold & Italic
+== Bold and italic
 
 You can bold and italic entire phrases, a word, and characters in a word.
 
 .Bold and italic inline formatting
-[source,asciidoc]
 ----
 *bold phrase* & **char**acter**s**
 
@@ -39,7 +35,6 @@ _italic phrase_ & __char__acter__s__
 You can monospace entire phrases, a word, and characters in a word.
 
 .Monospace inline formatting
-[source,asciidoc]
 ----
 `monospace phrase` & ``char``acter``s``
 
@@ -68,7 +63,6 @@ You can monospace entire phrases, a word, and characters in a word.
 You can highlight entire phrases, a word, and characters in a word.
 
 .Highlight inline formatting
-[source,asciidoc]
 ----
 Let's #highlight this phrase# and part of th##is##.
 ----

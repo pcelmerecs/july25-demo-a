@@ -1,7 +1,4 @@
 = Special Characters and Symbols
-// Settings
-:idprefix:
-:idseparator: -
 :table-caption!:
 
 Special character and symbol replacement is built into Asciidoctor.
