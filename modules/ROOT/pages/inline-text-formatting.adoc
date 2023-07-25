@@ -1,5 +1,7 @@
-= Inline Text Formatting
+= Program A sample instructions
 :example-caption!:
+
+This is just a Program A placeholder 
 
 You can add the following inline styles to your content:
 

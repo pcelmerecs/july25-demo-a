@@ -1,4 +1,4 @@
-= Sidebar
+= Sidebar Program A version 1.0
 
 == Sidebar block
 
