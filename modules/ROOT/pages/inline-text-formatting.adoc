@@ -1,7 +1,13 @@
-= Program A sample instructions
+= Application reference --- sample placeholder
 :example-caption!:
 
 This is just a Program A placeholder 
+
+*Eventually, each application will have a reference guide*
+
+
+
+
 
 You can add the following inline styles to your content:
 
