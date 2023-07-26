@@ -1,5 +1,7 @@
-= Inline Text Formatting
+= Application reference placeholder (FRED, for example)
 :example-caption!:
+
+*Sample placeholder* for application reference information 
 
 You can add the following inline styles to your content:
 
