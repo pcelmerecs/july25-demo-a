@@ -3,6 +3,11 @@
 
 *Sample placeholder* for application reference information 
 
+Use the Selector dropdown on the lower left of the page to switch between documentation modules and versions. 
+
+
+
+
 You can add the following inline styles to your content:
 
 * Bold
