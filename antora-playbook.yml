@@ -1,0 +1,21 @@
+site:
+  title: ECS Programmer's Guide
+  start_page: onboarding::index.adoc
+content:
+  sources:
+  - url: https://github.com/pcelmerecs/july25-demo-a.git
+    branches: [HEAD, v1.5]
+ui:
+  bundle:
+    url: C:\Users\PCelmer\antoraui\antora-ui-default\paul-ui\build\ui-bundle.zip
+    snapshot: true
+asciidoc:
+  attributes:
+    experimental: ''
+    page-pagination: ''
+    hide-uri-scheme: '@'
+    idseparator: '-'
+    idprefix: ''
+antora:
+  extensions:
+  - '@antora/lunr-extension'
