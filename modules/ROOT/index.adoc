@@ -17,7 +17,7 @@ These instructions include the main tasks for setting up your development enviro
 
 The following flowchart gives an overview of the onboarding instructions in the subsequent sections of this document and lists contacts if you run into trouble: 
 
-image:onboardingflowchart.png[flowchart]
+Need IMAGE
 
 NOTE: Please document any changes or updates that might be needed to these instructions. 
 
