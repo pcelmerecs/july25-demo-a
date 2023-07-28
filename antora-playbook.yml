@@ -1,6 +1,6 @@
 site:
   title: ECS Programmer's Guide
-  start_page: onboarding::index.adoc
+  start_page: programa::index.adoc
 content:
   sources:
   - url: https://github.com/pcelmerecs/july25-demo-a.git
