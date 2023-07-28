@@ -1,0 +1,25 @@
+= ECS Developer Onboarding Instructions
+
+:imagesdir: ./../assets/images
+
+This is the home page of the Onboarding instructions in the Programmer's Guide version *{page-component-version}* 
+
+These instructions are intended to help you set up your development environment from a clean system install.
+
+These instructions include the main tasks for setting up your development environment and should be performed in the following order: 
+
+. Check basic requirements.
+. Install and configure Docker.
+. Install and configure Visual Studio.
+. Install and configure IIS.
+. Perform debugging.
+. Install optional tools.
+
+The following flowchart gives an overview of the onboarding instructions in the subsequent sections of this document and lists contacts if you run into trouble: 
+
+image:onboardingflowchart.png[flowchart]
+
+NOTE: Please document any changes or updates that might be needed to these instructions. 
+
+
+
