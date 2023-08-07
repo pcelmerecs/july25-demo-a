@@ -1,7 +1,7 @@
 name: programa
-title: Application Reference (Like FRED)
+title: Sample application reference
 version: '1.0'
-start_page: inline-text-formatting.adoc
+start_page: programa::inline-text-formatting.adoc
 asciidoc:
   attributes:
     source-language: asciidoc@
