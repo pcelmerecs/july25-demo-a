@@ -1,22 +1,43 @@
 = Application reference --- sample placeholder
-:example-caption!:
+:example-caption!:Application Reference Template
 
-This is just a Program A placeholder 
+This is just a template for application reference information.
 
 *Eventually, each application will have a reference guide*
 
 
 
+== Getting Started
 
+
+ssssss
+
+
+== Code samples
+
+ddddd
+
+== API Reference
+
+dddddd
+
+
+
+
+
+
+
+== Basic formatting Guide
 
 You can add the following inline styles to your content:
 
+* Steps
 * Bold
 * Italic
 * Monospace
 * Highlight
 
-== Bold and italic
+=== Bold and italic
 
 You can bold and italic entire phrases, a word, and characters in a word.
 
@@ -38,7 +59,7 @@ _italic phrase_ & __char__acter__s__
 *_bold italic phrase_* & **__char__**acter**__s__**
 ====
 
-== Monospace
+=== Monospace
 
 You can monospace entire phrases, a word, and characters in a word.
 
@@ -66,7 +87,7 @@ You can monospace entire phrases, a word, and characters in a word.
 ``**__char__**``acter``**__s__**``
 ====
 
-== Highlight
+=== Highlight
 
 You can highlight entire phrases, a word, and characters in a word.
 
