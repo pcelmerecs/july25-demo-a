@@ -1,7 +1,7 @@
 name: programa
 title: Sample application reference
-version: '1.0'
-start_page: programa::inline-text-formatting.adoc
+version: 1.0
+start_page: programa::index.adoc
 asciidoc:
   attributes:
     source-language: asciidoc@
